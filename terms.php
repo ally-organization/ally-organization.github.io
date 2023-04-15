@@ -4,6 +4,8 @@
     <title>Ally | Terms of Service</title>
   </head>
   <body>
+    <?php include('header.php'); ?>
+    
     <main>
       <h2>Terms of Service</h2>
       <p>By using Ally, you agree to the following terms and conditions:</p>
@@ -17,13 +19,7 @@
         <li>These terms of service are governed by the laws of the state of California, and any dispute arising out of your use of Ally shall be resolved exclusively in the state or federal courts located in San Francisco County, California.</li>
       </ol>
     </main>
-    <footer>
-        <nav>
-          <ul>
-            <li><a href="privacy.html">Privacy Policy</a></li>
-            <li><a href="terms.html">Terms of Service</a></li>
-            <li><a href="contact.html">Contact Us</a></li>
-          </ul>
-        </nav>
-    </footer>
+  
+    <?php include('footer.php'); ?>
+
 </html>
