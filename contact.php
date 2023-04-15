@@ -8,7 +8,7 @@
     
     <main>
       <h2>Contact Us</h2>
-      <p>If you have any questions or feedback about Ally, please send an email to <a href="mailto:contact@ally.com">contact@ally.com</a>.</p>
+      <p>If you have any questions or feedback about Ally, please send an email to <a href="mailto:souhailmerroun.work@gmail.com">souhailmerroun.work@gmail.com</a>.</p>
     </main>
       
     <?php include('footer.php'); ?>
