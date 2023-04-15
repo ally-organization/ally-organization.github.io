@@ -8,8 +8,16 @@ This repository currently contains only the HTML version of the website.
 
 To set up the website, please follow these steps:
 
-1. Run `npm install` in your terminal to install the required dependencies.
-2. Once the dependencies have been installed, run `npx http-server` to start the server.
-3. You should now be able to access the website by navigating to `http://localhost:8080` in your web browser.
+1. Clone the repository to your local machine using Git.
+
+2. Navigate to the repository's directory using the command line.
+
+3. Start a local PHP server by running the following command:
+
+```
+php -S localhost:8000
+```
+
+4. Open your web browser and navigate to [http://localhost:8000](http://localhost:8000) to view the website.
 
 That's it! You're now ready to start working on the Ally website.
